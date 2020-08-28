@@ -14,4 +14,4 @@ Além de conseguir aperfeiçoar mais todos os meus conhecimentos em React Native
 
 ## Demonstração em imagens
 
-[Mobile](https://www.linkedin.com/posts/jo%C3%A3o-mateus-coelho_javascript-reactjs-reactnative-activity-6704527610090795008-0Zey)
+[Mobile](https://www.linkedin.com/posts/jo%C3%A3o-mateus-coelho_reactnative-typescript-tecnologia-activity-6704986841990361089-GCg1)
